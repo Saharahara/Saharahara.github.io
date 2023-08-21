@@ -1,4 +1,4 @@
-baseURL = "http://www.chumma.com"
+baseURL = "https://saharahara.github.io"
 title = "oru rasam"
 theme = "hugo-coder"
 languageCode = "en"
